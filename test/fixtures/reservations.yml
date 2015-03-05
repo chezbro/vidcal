@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  editor_id: 
+  daypart_id: 
+  reservee: MyString
+  confirmed: false
+  reservation_date: 2015-03-05
+  job_number: MyString
+
+two:
+  editor_id: 
+  daypart_id: 
+  reservee: MyString
+  confirmed: false
+  reservation_date: 2015-03-05
+  job_number: MyString
